@@ -27,5 +27,5 @@ opencv_contrib_python
 git+https://github.com/Project-Splinter/human_det
 git+https://github.com/YuliangXiu/smplx.git
 git+https://github.com/facebookresearch/pytorch3d.git
-git+https://github.com/YuliangXiu/neural_voxelization_layer.git
-git+https://github.com/NVIDIAGameWorks/kaolin.git
+#git+https://github.com/YuliangXiu/neural_voxelization_layer.git
+#git+https://github.com/NVIDIAGameWorks/kaolin.git
