@@ -14,6 +14,7 @@ conda env create -f environment.yaml
 conda init bash
 source ~/.bashrc
 source activate icon
+pip install gdown ###
 pip install --upgrade gdown ###
 pip install -r requirements.txt --use-deprecated=legacy-resolver
 
